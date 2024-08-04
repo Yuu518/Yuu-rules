@@ -17,7 +17,7 @@ jobs:
           echo "RELEASE_NAME=$(TZ=Asia/Shanghai date +'%Y-%m-%d %H:%M')" >> $GITHUB_ENV
         shell: bash
 
-      - uses: actions/checkout@v4.1.1
+      - uses: actions/checkout@v4.1.7
         with:
           fetch-depth: 0
 
@@ -30,16 +30,20 @@ jobs:
           wget https://github.com/Yuu518/sing-box-rules/raw/release/geosite.dat
           wget https://github.com/Yuu518/sing-box-rules/raw/release/geosite.dat.sha256sum
 
+      - name: Checkout MetaCubeX/meta-rules-converter
+        uses: actions/checkout@v4.1.7
+        with:
+          repository: MetaCubeX/meta-rules-converter
+          path: convert
+
       - name: Convert geo to mihomo-rules
         env:
           NO_SKIP: true
         run: |
-          mkdir -p ./rule-set/mihomo
-          cp ./geoip.dat ./geosite.dat ./.github/convert-mihomo.sh ./rule-set/mihomo
-          cd ./rule-set/mihomo
-          wget https://github.com/IrineSistiana/mosdns/releases/download/v4.5.3/mosdns-linux-amd64.zip -O mosdns.zip && unzip mosdns.zip
-          chmod 755 mosdns convert-mihomo.sh && ./convert-mihomo.sh
-          rm mosdns* convert-mihomo.sh geoip.dat geosite.dat LICENSE README.md config.yaml
+          mkdir -p rule-set/mihomo/geosite && mkdir -p rule-set/mihomo/geoip
+          cd convert
+          go run ./ geosite -f ../geosite.dat -o ../rule-set/mihomo/geosite
+          go run ./ geoip -f ../geoip.dat -o ../rule-set/mihomo/geoip
         
       - name: Convert geo to surge-rules
         env:
@@ -87,7 +91,7 @@ jobs:
             git push -f -u origin rule-set
 
       - name: Delete Workflow Runs
-        uses: Mattraks/delete-workflow-runs@v2
+        uses: Mattraks/delete-workflow-runs@v2.0.6
         with:
           token: ${{ github.token }}
           repository: ${{ github.repository }}
