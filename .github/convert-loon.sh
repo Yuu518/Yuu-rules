@@ -6,8 +6,8 @@ list=($(ls ./geoip | sed 's/geoip_//g' | sed 's/\.txt//g'))
 for ((i = 0; i < ${#list[@]}; i++)); do
 	#	echo "${list[i]}"
 	mv ./geoip/geoip_${list[i]}.txt ./geoip/${list[i]}.list
-	echo "payload:" >./geoip/${list[i]}.yaml
-	cat ./geoip/${list[i]}.list | sed 's/^/  - "/g' | sed 's/$/"/g' >>./geoip/${list[i]}.yaml
+	sed -i -E 's/([0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\/[0-9]{1,2})/IP-CIDR,\1/g' ./geoip/${list[i]}.list
+	sed -i '/^IP-CIDR,/! s/^/IP-CIDR6,/' ./geoip/${list[i]}.list    
 done
 
 mkdir -p geosite
@@ -19,9 +19,6 @@ for ((i = 0; i < ${#list[@]}; i++)); do
 	sed -i '/^#/d' geosite/${list[i]}.list
 	sed -i '/^keyword:/d' geosite/${list[i]}.list
 	sed -i '/^regexp:/d' geosite/${list[i]}.list
-	sed -i 's/^/+./g' ./geosite/${list[i]}.list
-	sed -i 's/+.full://g' ./geosite/${list[i]}.list
-	sed -i 's/+.domain:/+./g' ./geosite/${list[i]}.list
-	echo "payload:" >./geosite/${list[i]}.yaml
-	cat ./geosite/${list[i]}.list | sed 's/^/  - "/g' | sed 's/$/"/g' >>./geosite/${list[i]}.yaml
+	sed -i '/^full:/!s/^/DOMAIN-SUFFIX,/' ./geosite/${list[i]}.list
+	sed -i 's/^full:/DOMAIN,/g' ./geosite/${list[i]}.list
 done
