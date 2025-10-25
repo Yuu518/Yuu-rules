@@ -17,23 +17,20 @@ jobs:
           echo "RELEASE_NAME=$(TZ=Asia/Shanghai date +'%Y-%m-%d %H:%M')" >> $GITHUB_ENV
         shell: bash
 
-      - uses: actions/checkout@v4.1.7
+      - uses: actions/checkout@v5.0.0
         with:
           fetch-depth: 0
 
       - name: Get country.mmdb geosite.dat geoip.dat relative files
         run: |
-          wget https://github.com/Yuu518/geoip/raw/release/Country.mmdb
-          wget https://github.com/Yuu518/geoip/raw/release/Country.mmdb.sha256sum
-          wget https://github.com/Yuu518/geoip/raw/release/geoip.dat
-          wget https://github.com/Yuu518/geoip/raw/release/geoip.dat.sha256sum
-          wget https://github.com/Yuu518/sing-box-rules/raw/release/geosite.dat
-          wget https://github.com/Yuu518/sing-box-rules/raw/release/geosite.dat.sha256sum
+          curl -sSLO https://github.com/Yuu518/geoip/raw/release/Country.mmdb
+          curl -sSLO https://github.com/Yuu518/geoip/raw/release/geoip.dat
+          curl -sSLO https://github.com/Yuu518/sing-box-rules/raw/release/geosite.dat
 
-      - name: Checkout MetaCubeX/meta-rules-converter
-        uses: actions/checkout@v4.1.7
+      - name: Checkout Yuu518/meta-rules-converter
+        uses: actions/checkout@v5.0.0
         with:
-          repository: MetaCubeX/meta-rules-converter
+          repository: Yuu518/meta-rules-converter
           path: convert
 
       - name: Convert geo to mihomo-rules
@@ -49,44 +46,19 @@ jobs:
         env:
           NO_SKIP: true
         run: |
-          mkdir -p ./rule-set/surge
-          cp ./geoip.dat ./geosite.dat ./.github/convert-surge.sh ./rule-set/surge
-          cd ./rule-set/surge
-          wget https://github.com/IrineSistiana/mosdns/releases/download/v4.5.3/mosdns-linux-amd64.zip -O mosdns.zip && unzip mosdns.zip
-          chmod 755 mosdns convert-surge.sh && ./convert-surge.sh
-          rm mosdns* convert-surge.sh geoip.dat geosite.dat LICENSE README.md config.yaml
+          mkdir -p rule-set/surge/geosite && mkdir -p rule-set/surge/geoip
+          cd convert
+          go run ./ geosite -f ../geosite.dat -o ../rule-set/surge/geosite -t surge
+          go run ./ geoip -f ../geoip.dat -o ../rule-set/surge/geoip -t surge
 
       - name: Convert geo to loon-rules
         env:
           NO_SKIP: true
         run: |
-          mkdir -p ./rule-set/loon
-          cp ./geoip.dat ./geosite.dat ./.github/convert-loon.sh ./rule-set/loon
-          cd ./rule-set/loon
-          wget https://github.com/IrineSistiana/mosdns/releases/download/v4.5.3/mosdns-linux-amd64.zip -O mosdns.zip && unzip mosdns.zip
-          chmod 755 mosdns convert-loon.sh && ./convert-loon.sh
-          rm mosdns* convert-loon.sh geoip.dat geosite.dat LICENSE README.md config.yaml
-
-      - name: Move files
-        run: |
-          install -Dp ./Country.mmdb ./publish/country.mmdb
-          install -Dp ./Country.mmdb.sha256sum ./publish/country.mmdb.sha256sum
-          install -Dp ./geoip.dat ./publish/geoip.dat
-          install -Dp ./geoip.dat.sha256sum ./publish/geoip.dat.sha256sum
-          install -Dp ./geosite.dat ./publish/geosite.dat
-          install -Dp ./geosite.dat.sha256sum ./publish/geosite.dat.sha256sum
-          
-      - name: Git push assets to "release" branch
-        run: |
-          cd publish || exit 1
-          git init
-          git config --local user.name "github-actions[bot]"
-          git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git checkout -b release
-          git add .
-          git commit -m "Released on ${RELEASE_NAME}"
-          git remote add origin "https://${{ github.actor }}:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}"
-          git push -f -u origin release
+          mkdir -p rule-set/loon/geosite && mkdir -p rule-set/loon/geoip
+          cd convert
+          go run ./ geosite -f ../geosite.dat -o ../rule-set/loon/geosite -t loon
+          go run ./ geoip -f ../geoip.dat -o ../rule-set/loon/geoip -t loon
 
       - name: Git push assets to "rule-set" branch
         run: |
