@@ -1,0 +1,8 @@
+payload:
+    - DOMAIN,ac.dun.163yun.com
+    - DOMAIN,httpdns.n.netease.com
+    - DOMAIN,acstatic-dun.126.net
+    - DOMAIN-SUFFIX,netease.com
+    - DOMAIN-SUFFIX,music.163.com
+    - DOMAIN-SUFFIX,music.126.net
+    - DOMAIN-SUFFIX,dun.163.com
