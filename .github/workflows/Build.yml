@@ -177,6 +177,7 @@ jobs:
         run: |
           mkdir -p rule-set/surge/geosite && mkdir -p rule-set/loon/geosite
           mkdir -p rule-set/surge/geoip && mkdir -p rule-set/loon/geoip
+          mkdir -p rule-set/mihomo/geoip && mkdir -p rule-set/mihomo/geoip
           cd generate || exit 1
 
           go run ./ domain -d ../community/data -o ../rule-set/surge/geosite -f surge
@@ -184,6 +185,9 @@ jobs:
 
           go run ./ domain -d ../community/data -o ../rule-set/loon/geosite -f loon
           go run ./ ip -d ../geoip/text -o ../rule-set/loon/geoip -f loon
+
+          go run ./ domain -d ../community/data -o ../rule-set/mihomo/geosite -f mihomo
+          go run ./ ip -d ../geoip/text -o ../rule-set/mihomo/geoip -f mihomo
 
       - name: Git push assets to "rule-set" branch
         run: |
