@@ -1,0 +1,12 @@
+payload:
+    - youtubei.googleapis.com
+    - youtube.googleapis.com
+    - +.youtube.com
+    - +.youtubeeducation.com
+    - +.youtube-nocookie.com
+    - +.youtubegaming.com
+    - +.youtubekids.com
+    - +.withyoutube.com
+    - +.googlevideo.com
+    - +.ggpht.com
+    - +.ytimg.com
