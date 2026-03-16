@@ -41,7 +41,9 @@ jobs:
       - name: Checkout the "src" branch of this repo
         uses: actions/checkout@v6.0.1
         with:
+          repository: Yuu518/sing-box-rules
           ref: src
+          path: src
 
       - name: Checkout v2fly/domain-list-community
         uses: actions/checkout@v6.0.1
@@ -118,9 +120,9 @@ jobs:
           
       - name: Add proxy, direct and reject domains from "src" branch to appropriate temp files
         run: |
-          cat proxy.txt >> temp-proxy.txt
-          cat direct.txt >> temp-direct.txt
-          cat reject.txt >> temp-reject.txt
+          cat src/proxy.txt >> temp-proxy.txt
+          cat src/direct.txt >> temp-direct.txt
+          cat src/reject.txt >> temp-reject.txt
           
       - name: Sort and generate redundant lists
         run: |
@@ -131,9 +133,9 @@ jobs:
           
       - name: Remove redundant domains
         run: |
-          chmod +x findRedundantDomain.py
-          ./findRedundantDomain.py ./direct-list-with-redundant ./direct-list-deleted-unsort
-          ./findRedundantDomain.py ./proxy-list-with-redundant ./proxy-list-deleted-unsort
+          chmod +x src/findRedundantDomain.py
+          ./src/findRedundantDomain.py ./direct-list-with-redundant ./direct-list-deleted-unsort
+          ./src/findRedundantDomain.py ./proxy-list-with-redundant ./proxy-list-deleted-unsort
           [ ! -f "direct-list-deleted-unsort" ] && touch direct-list-deleted-unsort
           [ ! -f "proxy-list-deleted-unsort" ] && touch proxy-list-deleted-unsort
           sort ./direct-list-deleted-unsort > ./direct-list-deleted-sort
@@ -143,11 +145,11 @@ jobs:
       
       - name: Remove domains from "need-to-remove" lists in "src" branch
         run: |
-          chmod +x removefrom.py
-          ./removefrom.py -remove ./direct-need-to-remove.txt -from ./direct-list-without-redundant -out ./temp-cn.txt
-          ./removefrom.py -remove ./proxy-need-to-remove.txt -from ./proxy-list-without-redundant -out ./temp-geolocation-\!cn.txt
-          ./removefrom.py -remove ./reject-need-to-remove.txt -from ./reject-list-without-redundant -out ./temp-category-ads-all.txt
-          ./removefrom.py -remove ./reject-need-to-remove-adguard.txt -from ./reject-list-without-redundant-adguard -out ./temp-category-ads-all-adguard.txt
+          chmod +x src/removefrom.py
+          ./src/removefrom.py -remove src/direct-need-to-remove.txt -from ./direct-list-without-redundant -out ./temp-cn.txt
+          ./src/removefrom.py -remove src/proxy-need-to-remove.txt -from ./proxy-list-without-redundant -out ./temp-geolocation-\!cn.txt
+          ./src/removefrom.py -remove src/reject-need-to-remove.txt -from ./reject-list-without-redundant -out ./temp-category-ads-all.txt
+          ./src/removefrom.py -remove src/reject-need-to-remove-adguard.txt -from ./reject-list-without-redundant-adguard -out ./temp-category-ads-all-adguard.txt
           
       - name: Remove domains end with ".cn" in "temp-geolocation-!cn.txt" and write lists to data directory
         run: |
