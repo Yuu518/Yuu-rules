@@ -1,0 +1,3 @@
+domain:bridgestone.cn
+domain:bridgestone.com.cn
+domain:nokiantyres.cn

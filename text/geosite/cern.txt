@@ -1,0 +1,7 @@
+domain:ams02.space
+domain:cern
+domain:cern.ch
+domain:cixp.net
+domain:dotcernpilot.info
+domain:ippog.org
+domain:linearcollider.org

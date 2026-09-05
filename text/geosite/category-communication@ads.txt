@@ -1,0 +1,3 @@
+domain:adsgram.ai
+domain:graph.whatsapp.com
+domain:graph.whatsapp.net

@@ -1,0 +1,4 @@
+domain:ccstatic.org
+domain:creativecommons.engineering
+domain:creativecommons.org
+domain:licensebuttons.net

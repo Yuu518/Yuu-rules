@@ -1,0 +1,11 @@
+domain:solarcity.com
+domain:tesla.cn
+domain:tesla.com
+domain:tesla.com.cn
+domain:tesla.services
+domain:teslaenergy.services
+domain:teslamotors.cn
+domain:teslamotors.com
+domain:teslamotors.com.cn
+domain:teslazta.net
+domain:ts.la

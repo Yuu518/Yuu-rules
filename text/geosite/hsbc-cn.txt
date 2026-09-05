@@ -1,0 +1,3 @@
+domain:hsbc.com.cn
+domain:hsbcinsurance.com.cn
+domain:hsbcqh.com.cn

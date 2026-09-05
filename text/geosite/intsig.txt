@@ -1,0 +1,5 @@
+domain:camcard.com
+domain:camscanner.com
+domain:intsig.com
+domain:intsig.net
+domain:qixin.com

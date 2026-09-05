@@ -1,0 +1,6 @@
+domain:archlinux.de
+domain:archlinux.org
+domain:archlinux.page
+domain:archlinuxarm.org
+domain:archlinuxcn.org
+domain:pkgbuild.com

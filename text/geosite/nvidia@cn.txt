@@ -1,0 +1,4 @@
+full:cn.download.nvidia.com
+domain:geforce.cn
+domain:gputechconf.cn
+domain:nvidia.cn

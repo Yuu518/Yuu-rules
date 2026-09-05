@@ -1,0 +1,4 @@
+domain:tandf.co.uk
+domain:tandfonline.com
+domain:taylorandfrancis.com
+domain:taylorfrancis.com

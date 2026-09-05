@@ -1,0 +1,8 @@
+full:apilog-web.acfun.cn
+full:log-sdk.gifshow.com
+full:wlog.kuaishou.com
+domain:adbkwai.com
+domain:adkwai.com
+domain:adukwai.com
+domain:e.kuaishou.cn
+domain:e.kuaishou.com

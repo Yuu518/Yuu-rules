@@ -1,0 +1,12 @@
+full:ecapi-pchome.cdn.hinet.net
+domain:ecimg.tw
+domain:pchome.com.tw
+domain:pchomeec.tw
+domain:pchomeonline.com.tw
+domain:pchomepay.com.tw
+domain:pcloud.tw
+domain:pcstore.com.tw
+domain:piapp.com.tw
+domain:rakuya.com.tw
+domain:tagapie.com.tw
+domain:toget.com.tw

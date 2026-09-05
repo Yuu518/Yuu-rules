@@ -1,0 +1,12 @@
+full:fandom.zendesk.com
+domain:cortexrpg.com
+domain:cursecdn.com
+domain:dndbeyond.com
+domain:fanatical.com
+domain:fandom.com
+domain:futhead.com
+domain:gamepedia.com
+domain:muthead.com
+domain:wikia.com
+domain:wikia.nocookie.net
+domain:wikia.org

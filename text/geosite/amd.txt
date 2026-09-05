@@ -1,0 +1,5 @@
+domain:amd.com
+domain:amd.com.cn
+domain:amdfanstore.com
+domain:amdgaming.com
+domain:radeon.com

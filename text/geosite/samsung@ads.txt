@@ -1,0 +1,2 @@
+domain:samsungadhub.com
+domain:samsungads.com

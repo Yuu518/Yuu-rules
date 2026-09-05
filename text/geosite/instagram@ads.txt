@@ -1,0 +1,2 @@
+domain:graph-fallback.instagram.com
+domain:graph.instagram.com

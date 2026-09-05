@@ -1,0 +1,7 @@
+full:amp-api-edge.music.apple.com
+full:amp-api.music.apple.com
+full:js-cdn.music.apple.com
+full:music.apple.com
+full:musicstatus.music.apple.com
+full:play.music.apple.com
+full:speedysub.music.apple.com

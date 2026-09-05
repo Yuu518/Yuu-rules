@@ -1,0 +1,2 @@
+domain:browser.events.data.msn.cn
+domain:browser.events.data.msn.com

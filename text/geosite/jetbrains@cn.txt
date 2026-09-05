@@ -1,0 +1,2 @@
+domain:cdn.jetbrains.com
+domain:jetbrains.com.cn

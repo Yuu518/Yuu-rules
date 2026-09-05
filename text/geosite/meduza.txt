@@ -1,0 +1,2 @@
+domain:meduza-flutter.firebaseapp.com
+domain:meduza.io

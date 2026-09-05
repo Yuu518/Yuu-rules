@@ -1,0 +1,6 @@
+domain:mastercard.cn
+domain:mastercard.com.cn
+domain:priceless.com.cn
+domain:pricelessbeijing.cn
+domain:pricelessbeijing.com.cn
+domain:travelex.com.cn

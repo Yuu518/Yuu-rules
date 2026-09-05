@@ -1,0 +1,8 @@
+full:adeventtracker.spotify.com
+full:adstudio-assets.scdn.co
+full:bloodhound.spotify.com
+full:disney.my.sentry.io
+domain:ads.youtube.com
+domain:analytics.tiktok.com
+domain:insights-collector.gog.com
+domain:log-upload-os.hoyoverse.com

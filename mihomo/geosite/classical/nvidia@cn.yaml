@@ -1,0 +1,5 @@
+payload:
+    - DOMAIN,cn.download.nvidia.com
+    - DOMAIN-SUFFIX,geforce.cn
+    - DOMAIN-SUFFIX,gputechconf.cn
+    - DOMAIN-SUFFIX,nvidia.cn

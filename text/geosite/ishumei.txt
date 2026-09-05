@@ -1,0 +1,10 @@
+domain:fengkongbao.com
+domain:fengkongcloud.cn
+domain:fengkongcloud.com
+domain:ishumei.com
+domain:portal101.cn
+domain:portal102.cn
+domain:portal201.cn
+domain:portal301.cn
+domain:tebiefuza.cloud
+domain:tebiefuza.cn

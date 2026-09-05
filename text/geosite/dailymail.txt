@@ -1,0 +1,17 @@
+domain:anm.co.uk
+domain:dailym.ai
+domain:dailymail.co.uk
+domain:dailymail.com
+domain:dailymail.com.au
+domain:dailymail.dk
+domain:dailymailonline.com
+domain:dmgmediaprivacy.co.uk
+domain:mailhealth.com
+domain:mailonline.co.uk
+domain:mailonline.com
+domain:mailonsunday.co.uk
+domain:mailonsunday.ie
+domain:metro.co.uk
+domain:mol.im
+domain:thisismoney.co.uk
+domain:thismon.ee

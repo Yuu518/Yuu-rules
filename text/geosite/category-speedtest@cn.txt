@@ -1,0 +1,17 @@
+domain:cnspeedtest.cn
+domain:speed.neu6.edu.cn
+domain:speed.nju.edu.cn
+domain:speed.nuaa.edu.cn
+domain:speed.qlu.edu.cn
+domain:speed.ujs.edu.cn
+domain:speed6.ujs.edu.cn
+domain:speedtest.cn
+domain:speedtest.mfcyun.com
+domain:speedtest.shu.edu.cn
+domain:speedtest.xaut.edu.cn
+domain:speedtest6.shu.edu.cn
+domain:test.nju.edu.cn
+domain:test.ustc.edu.cn
+domain:test6.nju.edu.cn
+domain:test6.ustc.edu.cn
+domain:xnfz.seu.edu.cn

@@ -1,0 +1,8 @@
+domain:muji.com
+domain:muji.com.cn
+domain:muji.com.hk
+domain:muji.eu
+domain:muji.net
+domain:muji.tw
+domain:muji.us
+domain:mujikorea.net

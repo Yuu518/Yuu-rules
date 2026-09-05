@@ -1,0 +1,12 @@
+domain:a.mts.ru
+domain:dbo-dengi.online
+domain:kion.ru
+domain:mts-ws.net
+domain:mts.ru
+domain:mtsbank.ru
+domain:mtsdengi.ru
+domain:mtsmedia.ru
+domain:mymts.ru
+domain:obs.mts.ru
+domain:on-media.ru
+domain:tvoyodbo.online

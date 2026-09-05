@@ -1,0 +1,11 @@
+domain:accdn.com.cn
+domain:akadns88.net
+domain:akadns99.net
+domain:akamai.com
+domain:akcdn.com.cn
+domain:aptdn.net
+domain:edgekey88.net
+domain:janrain.biz
+domain:janrainservices.com
+domain:skycdn.com.cn
+domain:tl88.net

@@ -1,0 +1,2 @@
+domain:a.mts.ru
+domain:obs.mts.ru

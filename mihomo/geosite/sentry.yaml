@@ -1,0 +1,5 @@
+payload:
+    - +.getsentry.com
+    - +.sentry-cdn.com
+    - +.sentry.dev
+    - +.sentry.io

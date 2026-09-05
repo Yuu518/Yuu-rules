@@ -1,0 +1,3 @@
+domain:miniso.cn
+domain:minisohome.cn
+domain:minsio.cn

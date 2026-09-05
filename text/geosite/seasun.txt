@@ -1,0 +1,8 @@
+domain:cbjq.com
+domain:seasungames.cn
+domain:seasungames.com
+domain:seasunwbl.com
+domain:testplus.cn
+domain:xishanju.com
+domain:xoyo.com
+domain:xoyocdn.com

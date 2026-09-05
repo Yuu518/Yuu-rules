@@ -1,0 +1,5 @@
+domain:chinaunicom.com.hk
+domain:chinaunicomglobal.com
+domain:cuguplus.com
+domain:cuniq.com
+domain:cuniq.sg

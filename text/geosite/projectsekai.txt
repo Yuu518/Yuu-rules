@@ -1,0 +1,2 @@
+domain:pjsekai.sega.jp
+domain:sekai.colorfulpalette.org

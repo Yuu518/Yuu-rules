@@ -1,0 +1,8 @@
+full:community.oneplus.com
+domain:h2os.com
+domain:oneplus.cn
+domain:oneplus.com
+domain:oneplus.net
+domain:oneplusbbs.com
+domain:oneplusmobile.com
+domain:opstatics.com

@@ -1,0 +1,4 @@
+domain:jd.co.th
+domain:jd.hk
+domain:jd.id
+domain:jd.ru

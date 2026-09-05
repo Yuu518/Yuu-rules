@@ -1,0 +1,8 @@
+full:servd-anthropic-website.b-cdn.net
+domain:anthropic.com
+domain:clau.de
+domain:claude-code.mintlify.app
+domain:claude.ai
+domain:claude.com
+domain:claudemcpclient.com
+domain:claudeusercontent.com

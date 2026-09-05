@@ -1,0 +1,9 @@
+domain:udalogistic.cn
+domain:udalogistic.com
+domain:ydsys.cn
+domain:yunda56.com
+domain:yundaex.cn
+domain:yundaex.com
+domain:yundalog.com
+domain:yundaltl.com
+domain:yundasys.com

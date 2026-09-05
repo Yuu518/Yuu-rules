@@ -1,0 +1,14 @@
+domain:benliton.com
+domain:chinatimes.com
+domain:chinatimes.com.tw
+domain:ctee.com.tw
+domain:ctitv.com.tw
+domain:ctv.com.tw
+domain:ctwant.com
+domain:infotimes.com.tw
+domain:lecoin.cc
+domain:loveparents.org
+domain:superstation.com.tw
+domain:want-media.com
+domain:wantblogger.com
+domain:zwtvusa.com

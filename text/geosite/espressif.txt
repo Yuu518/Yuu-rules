@@ -1,0 +1,7 @@
+domain:esp32.com
+domain:esp8266.cn
+domain:esp8266.com
+domain:esp8266.com.cn
+domain:espressif.cn
+domain:espressif.com
+domain:espressif.com.cn
