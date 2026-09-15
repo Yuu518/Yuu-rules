@@ -1,0 +1,14 @@
+domain:dns.pub
+domain:dnsapi.cn
+domain:dnspod.cn
+domain:dnspod.com
+domain:dnspod.com.cn
+domain:dnspod.mobi
+domain:dnspod.net
+domain:dnspod.org
+domain:dnsv2.com
+domain:dnsv3.com
+domain:dnsv4.com
+domain:dnsv5.com
+domain:doh.pub
+domain:dot.pub

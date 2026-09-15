@@ -1,0 +1,10 @@
+full:www.entrust.cn
+domain:affirmtrust.com
+domain:atos.net
+domain:certificat2.com
+domain:entrust.cn
+domain:entrust.com
+domain:entrust.net
+domain:entrustdatacard.com
+domain:myatos.net
+domain:trendmicro.com

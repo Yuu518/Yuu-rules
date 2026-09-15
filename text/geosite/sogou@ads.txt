@@ -1,0 +1,8 @@
+domain:inte.sogou.com
+domain:inte.sogoucdn.com
+domain:lu.sogou.com
+domain:lu.sogoucdn.com
+domain:pb.i.sogou.com
+domain:theta.sogoucdn.com
+domain:uranus.sogou.com
+domain:wuliao.epro.sogou.com

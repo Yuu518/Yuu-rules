@@ -1,0 +1,7 @@
+domain:avh.world
+domain:avxde.org
+domain:avxhm.is
+domain:avxhm.se
+domain:avxlive.icu
+domain:xsava.xyz
+domain:zavat.pw

@@ -1,0 +1,11 @@
+domain:askdiandian.com
+domain:diandianlife.top
+domain:redelight.cn
+domain:rednote.com
+domain:rednote.com.my
+domain:rednotecdn.com
+domain:xhscdn.com
+domain:xhscdn.net
+domain:xhslink.com
+domain:xhsrcdn.com
+domain:xiaohongshu.com

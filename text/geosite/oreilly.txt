@@ -1,0 +1,6 @@
+domain:oreil.ly
+domain:oreilly.com
+domain:oreilly.com.cn
+domain:oreilly.review
+domain:oreillystatic.com
+domain:orl.ly

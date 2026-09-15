@@ -1,0 +1,8 @@
+domain:ads-union.jd.com
+domain:ads.union.jd.com
+domain:c-nfa.jd.com
+domain:cps.360buy.com
+domain:gia.jd.com
+domain:img-x.jd.com
+domain:jzt.jd.com
+domain:stat.m.jd.com

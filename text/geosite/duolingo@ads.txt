@@ -1,0 +1,3 @@
+domain:ads-api.duolingo.com
+domain:analytics.vpc.duolingo.com
+domain:metrics.duolingo.com
