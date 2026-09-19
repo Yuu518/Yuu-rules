@@ -1,0 +1,10 @@
+full:aqqmusic.tc.qq.com
+full:qqmusic.qq.com
+full:snowflake.qq.com
+full:v.streaming.qq.com
+full:y.gtimg.cn
+domain:d3g.qq.com
+domain:music.qq.com
+domain:music.tc.qq.com
+domain:tencentmusic.com
+domain:y.qq.com

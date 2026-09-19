@@ -1,0 +1,2 @@
+domain:graph.whatsapp.com
+domain:graph.whatsapp.net

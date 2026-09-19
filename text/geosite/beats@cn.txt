@@ -1,0 +1,7 @@
+domain:beats1.cn
+domain:beats1.com.cn
+domain:beats2.com.cn
+domain:beats4.cn
+domain:beatsbydre.com
+domain:beatsbydre.com.cn
+domain:beatsep.cn

@@ -1,0 +1,4 @@
+domain:logger.qmai.cn
+domain:tracking.mcdonalds.com.cn
+domain:trackingprd.hwwt8.com
+domain:trackserver.shuxinyc.com

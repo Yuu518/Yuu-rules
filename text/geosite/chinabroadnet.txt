@@ -1,0 +1,8 @@
+domain:10099.com.cn
+domain:ahitv.com
+domain:cbn.cn
+domain:cqccn.com
+domain:gcable.com.cn
+domain:isxtv.com
+domain:sc96655.com
+domain:sdgdwljt.com

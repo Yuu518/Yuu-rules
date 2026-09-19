@@ -1,0 +1,14 @@
+full:cdn-cn.apple-mapkit.com
+full:cdn-cn1.apple-mapkit.com
+full:cdn-cn2.apple-mapkit.com
+full:cdn-cn3.apple-mapkit.com
+full:cdn-cn4.apple-mapkit.com
+full:cdn.apple-mapkit.com
+full:cdn1.apple-mapkit.com
+full:cdn2.apple-mapkit.com
+full:cdn3.apple-mapkit.com
+full:cdn4.apple-mapkit.com
+domain:researchkit.cn
+domain:researchkit.com.cn
+domain:swiftui.cn
+domain:swiftui.com.cn

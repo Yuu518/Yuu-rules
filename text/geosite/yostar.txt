@@ -1,0 +1,9 @@
+domain:stargazer-games.com
+domain:stellasora.global
+domain:stellasora.jp
+domain:yo-star.com
+domain:yostar-pictures.co.jp
+domain:yostar.cn
+domain:yostar.co.jp
+domain:yostar.net
+domain:yostarplat.com

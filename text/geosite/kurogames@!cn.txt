@@ -1,0 +1,5 @@
+domain:aki-game.net
+domain:aki-game2.net
+domain:kurogame-service.com
+domain:kurogame.net
+domain:kurogames.net

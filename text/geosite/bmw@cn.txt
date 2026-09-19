@@ -1,0 +1,3 @@
+domain:alphabet.com.cn
+domain:alphabet.net.cn
+domain:bmw.com.cn

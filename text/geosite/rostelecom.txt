@@ -1,0 +1,9 @@
+full:sentry.iptv.rt.ru
+domain:azbukainterneta.ru
+domain:more.tv
+domain:restream-media.net
+domain:restream.ru
+domain:rostelecom.ru
+domain:rt.ru
+domain:wink.am
+domain:wink.ru

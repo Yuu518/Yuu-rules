@@ -1,0 +1,3 @@
+domain:insights-collector.gog.com
+domain:log-upload-os.hoyoverse.com
+domain:log-upload.mihoyo.com

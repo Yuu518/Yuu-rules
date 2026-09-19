@@ -1,0 +1,4 @@
+full:prd-priconne-redive.akamaized.net
+domain:api-priconne-redive.cygames.jp
+domain:omotenashi.cygames.jp
+domain:priconne-redive.jp

@@ -1,0 +1,2 @@
+domain:doi.info
+domain:doi.org

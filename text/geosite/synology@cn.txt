@@ -1,0 +1,2 @@
+domain:quickconnect.cn
+domain:synology.cn
