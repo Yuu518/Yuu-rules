@@ -1,0 +1,3 @@
+domain:adidas.cn
+domain:adidas.com.cn
+domain:adidasspecialtysports.cn

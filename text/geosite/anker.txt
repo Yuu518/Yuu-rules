@@ -1,0 +1,12 @@
+domain:anker-in.com
+domain:anker.com
+domain:anker.com.cn
+domain:ankersolix.com
+domain:ankerwork.cn
+domain:eufy.com
+domain:eufycn.com
+domain:eufylife.com
+domain:eufymake.com
+domain:eufymake.com.cn
+domain:soundcore.com
+domain:soundcore.com.cn

@@ -1,0 +1,10 @@
+domain:c.sayhi.360.cn
+domain:fenxi.360.cn
+domain:fenxi.com
+domain:lianmeng.360.cn
+domain:mediav.com
+domain:mvad.com
+domain:qhupdate.com
+domain:s.360.cn
+domain:s.so.360.cn
+domain:s.union.360.cn

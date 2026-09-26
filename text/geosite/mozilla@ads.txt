@@ -1,0 +1,4 @@
+full:ads-img.mozilla.org
+full:ads.mozilla.org
+full:incoming-telemetry.thunderbird.net
+full:incoming.telemetry.mozilla.org
