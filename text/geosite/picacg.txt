@@ -1,0 +1,13 @@
+full:ad-channel.diwodiwo.xyz
+full:ad-display.diwodiwo.xyz
+domain:bikaa.xyz
+domain:bikac.xyz
+domain:bikaios.xyz
+domain:diwodiwo.xyz
+domain:manhuabika.com
+domain:picacgp.com
+domain:picacgy.com
+domain:picacn.xyz
+domain:picacomic.com
+domain:picacomic.xyz
+domain:wikawika.xyz

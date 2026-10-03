@@ -1,0 +1,3 @@
+domain:ads.yahoo.com
+domain:gemini.yahoo.com
+domain:ysm.yahoo.com

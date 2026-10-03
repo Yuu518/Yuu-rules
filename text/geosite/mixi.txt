@@ -1,0 +1,3 @@
+domain:mixi.co.jp
+domain:mixi.jp
+domain:mixi.net

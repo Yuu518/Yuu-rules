@@ -1,0 +1,15 @@
+full:alt1-mtalk.google.com
+full:alt2-mtalk.google.com
+full:alt3-mtalk.google.com
+full:alt4-mtalk.google.com
+full:alt5-mtalk.google.com
+full:alt6-mtalk.google.com
+full:mtalk.google.com
+domain:alibabacloud.co.in
+domain:alibabacloud.com
+domain:alibabacloud.com.au
+domain:alibabacloud.com.hk
+domain:alibabacloud.com.my
+domain:alibabacloud.com.sg
+domain:alibabacloud.com.tw
+domain:alicloud.com

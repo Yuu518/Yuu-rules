@@ -1,0 +1,2 @@
+domain:att.cn
+domain:attcorp.cn

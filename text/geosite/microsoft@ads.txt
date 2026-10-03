@@ -1,0 +1,10 @@
+full:copilot-telemetry-service.githubusercontent.com
+full:copilot-telemetry.githubusercontent.com
+domain:bingads.com
+domain:browser.events.data.msn.cn
+domain:browser.events.data.msn.com
+domain:clarity.ms
+domain:collector.github.com
+domain:microsoftads.com
+domain:msads.net
+domain:nelreports.net

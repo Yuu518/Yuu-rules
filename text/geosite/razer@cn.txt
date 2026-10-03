@@ -1,0 +1,3 @@
+domain:razerapi.com
+domain:razersynapse.com
+domain:razerzone.com

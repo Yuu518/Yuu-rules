@@ -1,0 +1,7 @@
+domain:analytics.facebook.com
+domain:facebookads.com
+domain:graph-fallback.instagram.com
+domain:graph.instagram.com
+domain:graph.whatsapp.com
+domain:graph.whatsapp.net
+domain:pixel.facebook.com

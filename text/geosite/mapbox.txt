@@ -1,0 +1,2 @@
+domain:mapbox.cn
+domain:mapbox.com

@@ -1,0 +1,5 @@
+domain:pki.symantec.com
+domain:symauth.com
+domain:symcb.com
+domain:symcd.com
+domain:ws.symantec.com

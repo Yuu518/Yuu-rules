@@ -1,0 +1,6 @@
+domain:cht.com.tw
+domain:chtf.org.tw
+domain:emome.net
+domain:gtlsca.nat.gov.tw
+domain:hinet.net
+domain:xuite.net

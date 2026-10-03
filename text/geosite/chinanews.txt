@@ -1,0 +1,9 @@
+domain:chinanews.com
+domain:chinanews.com.cn
+domain:chinaqw.com
+domain:cns.com.cn
+domain:cnsimg.net
+domain:ecns.cn
+domain:inewsweek.cn
+domain:jwview.com
+domain:xinmeng.info

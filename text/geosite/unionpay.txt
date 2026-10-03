@@ -1,0 +1,14 @@
+domain:95516.com
+domain:95516.net
+domain:chinapay.com
+domain:chinaums.com
+domain:chinaunionpay.com
+domain:chinaunionpay.com.cn
+domain:chinaunionpay.net
+domain:cup.com.cn
+domain:cup62.cn
+domain:unionpay.com
+domain:unionpay.net
+domain:unionpayintl.cn
+domain:unionpayintl.com
+domain:unionpaysecure.com

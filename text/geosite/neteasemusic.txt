@@ -1,0 +1,10 @@
+full:ac.dun.163yun.com
+full:acstatic-dun.126.net
+full:httpdns.n.netease.com
+full:netease.ugcvideoss.ourdvs.com
+domain:hz.netease.com
+domain:mam.netease.com
+domain:music.126.com
+domain:music.126.net
+domain:music.163.com
+domain:music.163.com.163jiasu.com

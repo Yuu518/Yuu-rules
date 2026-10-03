@@ -1,0 +1,12 @@
+domain:anfutong.cn
+domain:anfutong.com.cn
+domain:beibao.cn
+domain:beibao.com.cn
+domain:paypal.com.cn
+domain:paypal.net.cn
+domain:paypal.org.cn
+domain:paypalcommunity.cn
+domain:paypalhere.cn
+domain:paypalhere.com.cn
+domain:xn--bnq297cix3a.cn
+domain:xoom.net.cn

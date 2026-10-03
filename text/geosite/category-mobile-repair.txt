@@ -1,0 +1,9 @@
+domain:androidfilehost.com
+domain:borneo.world
+domain:borneoasia.com
+domain:borneoschematic.com
+domain:bosharso.net
+domain:easy-jtag.com
+domain:hostborneo.org
+domain:unlocktool.net
+domain:z3x-team.com
