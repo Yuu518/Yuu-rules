@@ -1,0 +1,2 @@
+domain:yahoo.cn
+domain:yahoo.com.cn

@@ -1,0 +1,17 @@
+domain:1prime.ru
+domain:arctic.ru
+domain:baltnews.com
+domain:baltnews.lt
+domain:inosmi.ru
+domain:jinrieluosi.cn
+domain:pressria.ru
+domain:radiosputnik.ru
+domain:ria.ru
+domain:rossiyasegodnya.com
+domain:sputnikglobe.com
+domain:sputnikimages.com
+domain:sputnikmediabank.com
+domain:sputniknews.com
+domain:tok.media
+domain:ukraina.ru
+domain:xn--c1acbl2abdlkab1og.xn--p1ai

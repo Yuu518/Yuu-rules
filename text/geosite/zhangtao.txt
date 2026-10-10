@@ -1,0 +1,8 @@
+domain:accuratead.cn
+domain:dutils.com
+domain:hiaiabc.com
+domain:mob.com
+domain:mobsdks.com
+domain:sharesdk.cn
+domain:tec73.com
+domain:yksdks.com

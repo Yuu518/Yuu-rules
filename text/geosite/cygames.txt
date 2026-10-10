@@ -1,0 +1,5 @@
+domain:cygames.co.jp
+domain:cygames.jp
+domain:umamusume.akamaized.net
+domain:worldflipper.akamaized.net
+domain:worldflipper.jp

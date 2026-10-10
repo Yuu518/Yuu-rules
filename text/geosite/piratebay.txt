@@ -1,0 +1,4 @@
+domain:apibay.org
+domain:pirates-forum.org
+domain:thepiratebay.org
+domain:torrindex.net

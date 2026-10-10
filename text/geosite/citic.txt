@@ -1,0 +1,17 @@
+domain:cfc108.com
+domain:chinaamc.com
+domain:citic
+domain:citic-prudential.com.cn
+domain:citicbank.com
+domain:citiccapital.com
+domain:citiciam.com
+domain:citicifh.com
+domain:citicprufunds.com.cn
+domain:citics.com.hk
+domain:citicsf.com
+domain:clsa.com
+domain:cncbinternational.com
+domain:csc108.com
+domain:csci.hk
+domain:ecitic.com
+domain:xn--fiq64b

@@ -1,0 +1,3 @@
+full:ads.x5.ru
+full:ads.x5media.ru
+full:sentry.x5.ru

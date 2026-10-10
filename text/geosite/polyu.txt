@@ -1,0 +1,5 @@
+domain:cpce-polyu.edu.hk
+domain:hkcc-polyu.edu.hk
+domain:polyu.edu.hk
+domain:polyu.hk
+domain:speed-polyu.edu.hk

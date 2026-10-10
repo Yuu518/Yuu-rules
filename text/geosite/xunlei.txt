@@ -1,0 +1,13 @@
+domain:00cdn.com
+domain:88cdn.com
+domain:8uri.cn
+domain:guangyacdn.com
+domain:guangyapan.com
+domain:kanimg.com
+domain:p2cdn.com
+domain:sandai.net
+domain:thundercdn.com
+domain:thunderurl.com
+domain:xunlei.com
+domain:xycdn.com
+domain:xycloud.com

@@ -1,0 +1,11 @@
+domain:1drv.com
+domain:1drv.ms
+domain:livefilestore.com
+domain:onedrive.co
+domain:onedrive.co.uk
+domain:onedrive.com
+domain:onedrive.eu
+domain:onedrive.live.com
+domain:onedrive.net
+domain:onedrive.org
+domain:storage.live.com

@@ -1,0 +1,14 @@
+domain:acadn.cn
+domain:acadn.com
+domain:bbbcdns.com
+domain:dlgslb.cn
+domain:dlgslb.net
+domain:dwion.com
+domain:fastcdn.com
+domain:fastcdn.com.cn
+domain:flxdns.cn
+domain:flxdns.com
+domain:globalcdn.cn
+domain:mcadn.cn
+domain:tlgslb.cn
+domain:tlgslb.com

@@ -1,0 +1,3 @@
+full:visor.sberbank.ru
+domain:ads.sber.ru
+domain:clickstream.sberbank.ru

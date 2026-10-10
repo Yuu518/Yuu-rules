@@ -1,0 +1,2 @@
+domain:speedtest.hk.chinamobile.com
+domain:speedtestbb.hk.chinamobile.com

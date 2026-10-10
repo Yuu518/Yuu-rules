@@ -1,0 +1,11 @@
+domain:dmhy.best
+domain:dmhy.org
+domain:m-team.cc
+domain:m-team.io
+domain:mt.cc
+domain:myanonamouse.net
+domain:nebulance.io
+domain:skyey2.com
+domain:skyeysnow.com
+domain:torrentleech.cc
+domain:torrentleech.org

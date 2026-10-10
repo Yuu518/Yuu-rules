@@ -1,0 +1,8 @@
+domain:blueos.com.cn
+domain:budingscan.com
+domain:iqoo.com
+domain:vivo.cn
+domain:vivo.com
+domain:vivo.com.cn
+domain:vivoglobal.com
+domain:vvstc.com

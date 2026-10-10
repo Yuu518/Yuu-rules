@@ -1,0 +1,2 @@
+domain:crash2.zhihu.com
+domain:zhihu-web-analytics.zhihu.com

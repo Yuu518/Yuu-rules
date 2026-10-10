@@ -1,0 +1,2 @@
+full:incoming-telemetry.thunderbird.net
+full:incoming.telemetry.mozilla.org

@@ -1,0 +1,3 @@
+full:ad-channel.diwodiwo.xyz
+full:ad-display.diwodiwo.xyz
+domain:collector.xhamster.com

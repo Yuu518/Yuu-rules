@@ -1,0 +1,16 @@
+domain:atomgit.com
+domain:codechina.net
+domain:csdn.com
+domain:csdn.net
+domain:csdn.net.cn
+domain:csdnimg.cn
+domain:csto.com
+domain:datasea.cn
+domain:gitbook.cn
+domain:gitchat.cn
+domain:gitcode.com
+domain:gitcode.net
+domain:iteye.com
+domain:kaifayun.com
+domain:programmer.com.cn
+domain:programmer.net.cn
