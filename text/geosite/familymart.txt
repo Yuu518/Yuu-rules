@@ -1,0 +1,7 @@
+domain:famifun.com.tw
+domain:family.co.jp
+domain:family.com.tw
+domain:familymart.com.cn
+domain:familymart.com.my
+domain:familymart.com.ph
+domain:famima.vn

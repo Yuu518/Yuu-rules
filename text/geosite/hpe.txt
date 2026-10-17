@@ -1,0 +1,16 @@
+full:hpefonts.s3.amazonaws.com
+domain:greenlakeaas.com
+domain:greenlakehybridcloud.com
+domain:hewlett-packard.asia
+domain:hewlett-packard.ch
+domain:hewlett-packard.co
+domain:hewlett-packard.co.il
+domain:hewlett-packard.co.uk
+domain:hewlett-packard.com.cn
+domain:hewlett-packard.com.mx
+domain:hewlett-packard.com.sg
+domain:hewlett-packard.jp
+domain:hewlett-packard.mobi
+domain:hewlettpackard.enterprises
+domain:hpe.com
+domain:hpecyber.com

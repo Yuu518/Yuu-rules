@@ -1,0 +1,7 @@
+full:c.pki.goog
+full:crl.pki.goog
+full:crls.pki.goog
+full:i.pki.goog
+full:o.pki.goog
+full:ocsp.pki.goog
+full:pki-goog.l.google.com

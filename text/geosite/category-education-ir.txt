@@ -1,0 +1,10 @@
+domain:done.ir
+domain:faradars.org
+domain:git.ir
+domain:iranlms.org
+domain:learnby.ir
+domain:maktabkhooneh.org
+domain:melotar.com
+domain:newdars.com
+domain:toplearn.com
+domain:webinarplus.online

@@ -1,0 +1,12 @@
+domain:didi-food.com
+domain:didi.cn
+domain:didialift.com
+domain:didiaustralia.blog
+domain:didichuxing.com
+domain:didiglobal.com
+domain:didimobility.co.jp
+domain:didistatic.com
+domain:diditaxi.com.cn
+domain:hongyibo.com.cn
+domain:udache.com
+domain:xiaojukeji.com

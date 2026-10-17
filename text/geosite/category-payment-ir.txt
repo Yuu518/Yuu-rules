@@ -1,0 +1,17 @@
+domain:asanpardakht.com
+domain:asanpardakht.net
+domain:behpardakht.com
+domain:bitbarg.me
+domain:iranicard.ir
+domain:mydigipay.com
+domain:pay.ir
+domain:payping.ir
+domain:pec.ir
+domain:pep.co.ir
+domain:sadadpsp.ir
+domain:sep.ir
+domain:shaparak.ir
+domain:vandar.app
+domain:vandar.io
+domain:weswap.digital
+domain:zarinpal.com

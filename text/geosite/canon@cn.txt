@@ -1,0 +1,2 @@
+domain:canon.cn
+domain:canon.com.cn

@@ -1,0 +1,3 @@
+domain:coinone.co.kr
+domain:coinonecore.com
+domain:coinonecorp.com

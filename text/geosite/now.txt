@@ -1,0 +1,6 @@
+domain:now-ashare.com
+domain:now-tv.com
+domain:now.com
+domain:now.com.hk
+domain:nowe.com
+domain:nowe.hk

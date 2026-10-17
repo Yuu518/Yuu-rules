@@ -1,0 +1,6 @@
+domain:nexon.co.jp
+domain:nexon.com
+domain:nexon.io
+domain:nexon.net
+domain:nexoncdn.co.kr
+domain:nexongames.co.kr
