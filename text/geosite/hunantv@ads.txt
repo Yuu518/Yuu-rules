@@ -1,0 +1,6 @@
+domain:click.hunantv.com
+domain:da.hunantv.com
+domain:da.mgtv.com
+domain:log.hunantv.com
+domain:log.v2.hunantv.com
+domain:res.hunantv.com

@@ -1,0 +1,1 @@
+full:redirector.c.play.google.com

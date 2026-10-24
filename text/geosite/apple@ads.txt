@@ -1,0 +1,5 @@
+domain:advertising.apple.com
+domain:api-adservices.apple.com
+domain:iad.apple.com
+domain:iadsdk.apple.com
+domain:qwapi.com

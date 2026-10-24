@@ -1,0 +1,13 @@
+domain:ad.tencentmusic.com
+domain:adbehavior.ximalaya.com
+domain:ads.service.kugou.com
+domain:adse.wsa.ximalaya.com
+domain:adse.ximalaya.com
+domain:adserviceretry.kglink.cn
+domain:adserviceretry.kugou.com
+domain:adstats.tencentmusic.com
+domain:monitor.music.qq.com
+domain:report.tencentmusic.com
+domain:stat.y.qq.com
+domain:tmead.y.qq.com
+domain:tmeadcomm.y.qq.com

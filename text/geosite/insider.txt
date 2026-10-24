@@ -1,0 +1,16 @@
+domain:businessinsider.co.za
+domain:businessinsider.com
+domain:businessinsider.com.au
+domain:businessinsider.com.pl
+domain:businessinsider.de
+domain:businessinsider.es
+domain:businessinsider.fr
+domain:businessinsider.in
+domain:businessinsider.jp
+domain:businessinsider.mx
+domain:businessinsider.my
+domain:businessinsider.nl
+domain:businessinsider.sg
+domain:insider-intelligence.com
+domain:insider.com
+domain:insiderintelligence.com

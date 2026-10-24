@@ -1,0 +1,6 @@
+domain:nikkei-cnbc.co.jp
+domain:nikkei.co.jp
+domain:nikkei.com
+domain:nikkei.jp
+domain:nikkei4946.com
+domain:nikkeibp.co.jp

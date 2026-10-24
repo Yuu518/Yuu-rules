@@ -1,0 +1,2 @@
+domain:dmm.co.jp
+domain:dmmrex.com

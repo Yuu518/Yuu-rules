@@ -1,0 +1,3 @@
+payload:
+    - DOMAIN,incoming-telemetry.thunderbird.net
+    - DOMAIN,incoming.telemetry.mozilla.org
