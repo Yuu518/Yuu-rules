@@ -1,0 +1,4 @@
+domain:duowan.com
+domain:dwstatic.com
+domain:yy.com
+domain:yystatic.com

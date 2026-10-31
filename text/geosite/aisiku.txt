@@ -1,0 +1,14 @@
+domain:1tyy.cn
+domain:bbdc.cn
+domain:beingfine.cn
+domain:beingfine.com.cn
+domain:bubei.com.cn
+domain:coolab.top
+domain:is-cool.cn
+domain:is-cool.com.cn
+domain:langeasy.cn
+domain:langeasy.com.cn
+domain:learnywhere.cn
+domain:learnywhere.com.cn
+domain:qlisten.cn
+domain:qtyy.cn

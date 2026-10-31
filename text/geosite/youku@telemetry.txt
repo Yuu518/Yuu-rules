@@ -1,0 +1,10 @@
+domain:adashx.ut.youku.com
+domain:e.stat.ykimg.com
+domain:h-adashx.ut.youku.com
+domain:lstat.youku.com
+domain:p-log.ykimg.com
+domain:passport-log.youku.com
+domain:s-adashx.ut.youku.com
+domain:stat.youku.com
+domain:statis.api.3g.youku.com
+domain:v6-adashx.ut.youku.com

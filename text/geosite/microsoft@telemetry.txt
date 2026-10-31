@@ -1,0 +1,17 @@
+full:copilot-telemetry-service.githubusercontent.com
+full:copilot-telemetry.githubusercontent.com
+full:dc.applicationinsights.azure.com
+full:dc.services.visualstudio.com
+full:live.applicationinsights.azure.com
+full:rt.services.visualstudio.com
+domain:applicationinsights.io
+domain:applicationinsights.net
+domain:aria.ms
+domain:browser.events.data.msn.cn
+domain:browser.events.data.msn.com
+domain:cafe.github.com
+domain:collector.github.com
+domain:data.microsoft.com
+domain:in.applicationinsights.azure.com
+domain:nelreports.net
+domain:telemetry.microsoft.com

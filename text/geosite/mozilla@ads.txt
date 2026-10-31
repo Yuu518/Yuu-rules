@@ -1,0 +1,2 @@
+full:ads-img.mozilla.org
+full:ads.mozilla.org

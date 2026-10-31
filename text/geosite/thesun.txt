@@ -1,0 +1,7 @@
+domain:dreamteamfc.com
+domain:page3.com
+domain:sunbingo.co.uk
+domain:talksport.com
+domain:thescottishsun.co.uk
+domain:thesun.co.uk
+domain:thesun.ie

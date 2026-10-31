@@ -1,0 +1,2 @@
+full:sentry.ppy.sh
+domain:ppy.sh

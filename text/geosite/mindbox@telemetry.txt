@@ -1,0 +1,2 @@
+full:sentry.mindbox.ru
+full:sentry.popmechanic.ru

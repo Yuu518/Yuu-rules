@@ -1,0 +1,6 @@
+domain:ads-uo.api.leiniao.com
+domain:ads-ut.api.leiniao.com
+domain:ads.api.my7v.com
+domain:euads-o.api.leiniao.com
+domain:hwads-t.api.my7v.com
+domain:testads.api.my7v.com

@@ -1,0 +1,2 @@
+domain:strepsils.cn
+domain:strepsils.com.cn

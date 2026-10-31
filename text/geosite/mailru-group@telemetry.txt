@@ -1,0 +1,14 @@
+full:sentry-ng.g.smailru.net
+full:sentry.dev-my.com
+full:sentry.dev-my.games
+full:sentry.rustore.ru
+full:sentry.viqeo.tv
+full:srch-telemeter10.g.smailru.net
+full:stats.dahlmessenger.com
+full:stats.dev.telega.info
+full:stats.rustore.ru
+full:stats.telega.info
+full:stats.vk-portal.net
+domain:apptracer.ru
+domain:log.dzen.ru
+domain:metrics.viqeo.tv

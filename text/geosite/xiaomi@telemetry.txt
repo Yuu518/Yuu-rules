@@ -1,0 +1,8 @@
+domain:data.mistat.india.xiaomi.com
+domain:data.mistat.intl.xiaomi.com
+domain:data.mistat.rus.xiaomi.com
+domain:data.mistat.xiaomi.com
+domain:logupdate.avlyun.sec.miui.com
+domain:sentry.d.mi.com
+domain:sentry.d.xiaomi.net
+domain:stats.music.xiaomi.com

@@ -1,0 +1,14 @@
+full:copilot-telemetry-service.githubusercontent.com
+full:copilot-telemetry.githubusercontent.com
+full:crashlyticsreports-pa.googleapis.com
+full:dc.services.visualstudio.com
+full:firebase-settings.crashlytics.com
+full:firebaselogging-pa.googleapis.com
+full:firebaselogging.googleapis.com
+full:rt.services.visualstudio.com
+full:update.crashlytics.com
+domain:analytics.cloud.unity3d.com
+domain:cafe.github.com
+domain:collector.github.com
+domain:perf-events.cloud.unity3d.com
+domain:perf.cloud.unity3d.com

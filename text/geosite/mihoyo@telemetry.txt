@@ -1,0 +1,2 @@
+domain:log-upload-os.hoyoverse.com
+domain:log-upload.mihoyo.com

@@ -1,0 +1,15 @@
+full:adblogger.vk.com
+full:adblogger.vk.ru
+full:ads.vk.com
+full:ads.vk.ru
+full:adv.vk.ru
+full:advk.vk.ru
+full:analytics.vk.ru
+full:stats.vk-portal.net
+full:target.vk.com
+domain:adv.vk.com
+domain:analytics.vk.com
+domain:ms.vk.com
+domain:ms.vk.ru
+domain:target.vk.ru
+domain:vk-analytics.ru

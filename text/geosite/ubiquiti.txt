@@ -1,0 +1,13 @@
+domain:amplifi.com
+domain:amplifi.com.cn
+domain:frontrow.com
+domain:frontrow.com.cn
+domain:ubncloud.com
+domain:ubnt.com
+domain:ubnt.com.cn
+domain:ui.com
+domain:ui.com.cn
+domain:uisp.com
+domain:uum.com.cn
+domain:uwn.com
+domain:wifiman.com

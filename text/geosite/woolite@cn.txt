@@ -1,0 +1,2 @@
+domain:woolite.cn
+domain:woolite.com.cn

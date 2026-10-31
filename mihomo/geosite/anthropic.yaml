@@ -1,0 +1,19 @@
+payload:
+    - servd-anthropic-website.b-cdn.net
+    - +.anthropic-com.ghost.io
+    - +.anthropic.auth0.com
+    - +.anthropic.com
+    - +.browser-intake-us5-datadoghq.com
+    - +.cdn.usefathom.com
+    - +.clau.de
+    - +.claude-code.mintlify.app
+    - +.claude.ai
+    - +.claude.com
+    - +.claude.dev
+    - +.claudemcpclient.com
+    - +.claudemcpcontent.com
+    - +.claudeusercontent.com
+    - +.intercom.io
+    - +.intercomcdn.com
+    - +.sentry.io
+    - +.statsigapi.net

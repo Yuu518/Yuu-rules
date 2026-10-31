@@ -1,0 +1,3 @@
+domain:managedpki.ne.jp
+domain:secom.co.jp
+domain:secomtrust.net
