@@ -1,0 +1,1 @@
+domain:clickstream.sberbank.ru

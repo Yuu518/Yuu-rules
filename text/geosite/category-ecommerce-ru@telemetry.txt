@@ -1,0 +1,7 @@
+full:analytics-stage.wildberries.ru
+full:analytics.wildberries.ru
+full:marketplace-sentry.wb.ru
+full:sentry.ozon.ru
+full:sentry.wb.ru
+full:stats.avito.ru
+full:web-analytics.wildberries.ru

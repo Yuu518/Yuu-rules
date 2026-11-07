@@ -1,0 +1,14 @@
+domain:bigbigchannel.com.hk
+domain:bigbigshop.com
+domain:encoretvb.com
+domain:mytvsuper.com
+domain:neigbuy.com
+domain:tvb.com
+domain:tvb.com.au
+domain:tvbanywhere.com
+domain:tvbanywhere.com.sg
+domain:tvbc.com.cn
+domain:tvbeventpower.com.hk
+domain:tvbusa.com
+domain:tvbweekly.com
+domain:tvmedia.net.au

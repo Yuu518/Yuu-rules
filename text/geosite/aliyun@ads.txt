@@ -1,0 +1,9 @@
+domain:acjs.aliyun.com
+domain:adash-emas.cn-hangzhou.aliyuncs.com
+domain:adash.man.aliyuncs.com
+domain:alimama.alicdn.com
+domain:atanx.alicdn.com
+domain:atanx2.alicdn.com
+domain:baichuan-sdk.alicdn.com
+domain:nbsdk-baichuan.alicdn.com
+domain:tce.alicdn.com

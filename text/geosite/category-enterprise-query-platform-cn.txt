@@ -1,0 +1,13 @@
+domain:aiqicha.baidu.com
+domain:aiqicha.cn
+domain:aiqicha.com
+domain:jindidata.com
+domain:qcc.com
+domain:qichacha.com
+domain:qichamao.com
+domain:qixin.com
+domain:qyyjt.cn
+domain:tianyancha.com
+domain:x315.com
+domain:xcc.cn
+domain:xinchacha.com

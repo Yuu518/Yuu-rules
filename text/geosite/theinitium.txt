@@ -1,0 +1,2 @@
+domain:init.shop
+domain:theinitium.com

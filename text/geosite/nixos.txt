@@ -1,0 +1,12 @@
+full:nix-community.github.io
+domain:builtwithnix.org
+domain:mynixos.com
+domain:nix-community.org
+domain:nix.dev
+domain:nix.store
+domain:nixcon.org
+domain:nixcon2017.org
+domain:nixlang.com
+domain:nixos.org
+domain:nixos.wiki
+domain:nixpkgs.org

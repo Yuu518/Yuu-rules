@@ -1,0 +1,12 @@
+domain:1010.com.hk
+domain:esmarthealth.com
+domain:hkcsl.com
+domain:hkt-enterprise.com
+domain:hkt-eye.com
+domain:hkt.com
+domain:hkteducation.com
+domain:hktpremier.com
+domain:hktshop.com
+domain:netvigator.com
+domain:theclub.com.hk
+domain:uhub.com

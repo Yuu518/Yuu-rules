@@ -1,0 +1,8 @@
+domain:farfetch-apps.com
+domain:farfetch-contents.com
+domain:farfetch.cn
+domain:farfetch.com
+domain:farfetch.com.cn
+domain:farfetch.net
+domain:farfetch.net.cn
+domain:fflnk.net
