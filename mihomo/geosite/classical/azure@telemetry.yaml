@@ -1,0 +1,4 @@
+payload:
+    - DOMAIN,dc.applicationinsights.azure.com
+    - DOMAIN,live.applicationinsights.azure.com
+    - DOMAIN-SUFFIX,in.applicationinsights.azure.com

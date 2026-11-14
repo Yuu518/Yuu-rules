@@ -1,0 +1,5 @@
+domain:duowan.com
+domain:dwstatic.com
+domain:yy.com
+domain:yyeshop.cn
+domain:yystatic.com

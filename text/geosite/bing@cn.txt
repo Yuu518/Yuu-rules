@@ -1,0 +1,8 @@
+full:bj1.api.bing.com
+domain:bing.com.cn
+domain:cn.bing.com
+domain:cn.bing.net
+domain:cn.mm.bing.net
+domain:ditu.live.com
+domain:r.bing.com
+domain:th.bing.com

@@ -1,0 +1,2 @@
+domain:adash-emas.cn-hangzhou.aliyuncs.com
+domain:adash.man.aliyuncs.com

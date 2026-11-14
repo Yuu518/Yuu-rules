@@ -1,0 +1,3 @@
+full:dc.applicationinsights.azure.com
+full:live.applicationinsights.azure.com
+domain:in.applicationinsights.azure.com

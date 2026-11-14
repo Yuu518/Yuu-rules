@@ -1,0 +1,9 @@
+domain:alog.umeng.com
+domain:alog.umengcloud.com
+domain:alogs.umeng.com
+domain:alogus.umeng.com
+domain:cnlogs.umeng.com
+domain:cnlogs.umengcloud.com
+domain:plbslog.umeng.com
+domain:ulogs.umeng.com
+domain:ulogs.umengcloud.com

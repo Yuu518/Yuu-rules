@@ -1,0 +1,1 @@
+domain:cn-cdn1.skymansion.net

@@ -1,0 +1,2 @@
+full:amp-api.podcasts.apple.com
+full:podcasts.apple.com

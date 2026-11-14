@@ -1,0 +1,1 @@
+domain:badjs.weixinbridge.com

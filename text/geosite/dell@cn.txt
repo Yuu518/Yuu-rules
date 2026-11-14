@@ -1,0 +1,7 @@
+domain:dell-alw.com
+domain:dell-brand.com
+domain:dell.com.cn
+domain:dellemc.com.cn
+domain:dellmobile.cn
+domain:delltechnologies.com.cn
+domain:platform.dell.com

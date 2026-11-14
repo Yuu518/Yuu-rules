@@ -1,0 +1,3 @@
+domain:analytics.cloud.unity3d.com
+domain:perf-events.cloud.unity3d.com
+domain:perf.cloud.unity3d.com

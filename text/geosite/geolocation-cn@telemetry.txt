@@ -1,0 +1,12 @@
+domain:base.api.my7v.com
+domain:cloudflareinsights-cn.com
+domain:dc-conf-o.api.leiniao.com
+domain:dc-conf-t.api.leiniao.com
+domain:dc-o.api.leiniao.com
+domain:dc-t.api.leiniao.com
+domain:dc-uo.api.leiniao.com
+domain:dc-ut.api.leiniao.com
+domain:meitustat.com
+domain:qms-report-o.api.leiniao.com
+domain:qms-report-t.api.leiniao.com
+domain:shuqistat.com

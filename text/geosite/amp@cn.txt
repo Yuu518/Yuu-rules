@@ -1,0 +1,1 @@
+full:cdn.ampproject.org
