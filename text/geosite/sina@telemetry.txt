@@ -1,0 +1,6 @@
+domain:beacon.sina.com.cn
+domain:log.sina.cn
+domain:log2.sina.cn
+domain:sbeacon.sina.com.cn
+domain:slog.sina.cn
+domain:slog.sina.com.cn

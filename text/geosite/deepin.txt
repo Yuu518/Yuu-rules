@@ -1,0 +1,15 @@
+domain:51changxie.com
+domain:51jianxie.cn
+domain:91changxie.com
+domain:changxie.com
+domain:chinauos.com
+domain:deepin.cn
+domain:deepin.com
+domain:deepin.io
+domain:deepin.org
+domain:deepin.org.cn
+domain:linglong.space
+domain:linyaps.org.cn
+domain:sndu.cn
+domain:uniontech.cn
+domain:uniontech.com

@@ -1,0 +1,2 @@
+domain:ldstatic.com
+domain:linux.do

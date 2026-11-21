@@ -1,0 +1,2 @@
+domain:log.hunantv.com
+domain:log.v2.hunantv.com

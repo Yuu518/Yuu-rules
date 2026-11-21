@@ -1,0 +1,16 @@
+domain:ccb-life.com.cn
+domain:ccb.cn
+domain:ccb.com
+domain:ccb.com.cn
+domain:ccbcos.com
+domain:ccbfund.cn
+domain:ccbfund.com
+domain:ccbfund.com.cn
+domain:ccbfutures.cn
+domain:ccbfutures.com
+domain:ccbintl.com.hk
+domain:ccbleasing.com
+domain:ccblife-test.com.cn
+domain:ccbseoul.com
+domain:ccbtrust.com.cn
+domain:ccbxt.com

@@ -1,0 +1,5 @@
+full:crashlyticsreports-pa.googleapis.com
+full:firebase-settings.crashlytics.com
+full:firebaselogging-pa.googleapis.com
+full:firebaselogging.googleapis.com
+full:update.crashlytics.com

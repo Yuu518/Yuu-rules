@@ -1,0 +1,16 @@
+domain:hdrezka-home.tv
+domain:hdrezka.ac
+domain:hdrezka.ag
+domain:hdrezka.cm
+domain:hdrezka.co
+domain:hdrezka.me
+domain:hdrezka.org
+domain:hdrezka.site
+domain:hdrzk.org
+domain:rezka.ag
+domain:rezka.fi
+domain:static.voidboost.com
+domain:statichdrezka.ac
+domain:stream.voidboost.cc
+domain:stream.voidboost.one
+domain:voidslam.org

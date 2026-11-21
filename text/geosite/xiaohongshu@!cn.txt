@@ -1,0 +1,3 @@
+domain:rednote.com
+domain:rednote.com.my
+domain:rednotecdn.com

@@ -1,0 +1,16 @@
+domain:ak-p.tripcdn.com
+domain:ak-s-cw.tripcdn.com
+domain:ak-s.tripcdn.com
+domain:akatest.tripcdn.com
+domain:aw-d.tripcdn.com
+domain:aw-p.tripcdn.com
+domain:aw-s.tripcdn.com
+domain:ctrip.co.id
+domain:ctrip.co.kr
+domain:ctrip.co.th
+domain:ctrip.com.hk
+domain:ctrip.my
+domain:ctrip.sg
+domain:ctripbuy.hk
+domain:hhtravel.com.tw
+domain:trip.com

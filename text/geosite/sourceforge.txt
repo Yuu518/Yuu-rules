@@ -1,0 +1,4 @@
+domain:fsdn.com
+domain:sf.net
+domain:sourceforge.com
+domain:sourceforge.net

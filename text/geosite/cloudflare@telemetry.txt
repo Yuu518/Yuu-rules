@@ -1,0 +1,2 @@
+domain:cloudflareinsights-cn.com
+domain:cloudflareinsights.com

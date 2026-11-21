@@ -1,0 +1,8 @@
+domain:gen.lib.rus.ec
+domain:libgen.fun
+domain:libgen.is
+domain:libgen.life
+domain:libgen.me
+domain:libgen.rs
+domain:libgen.st
+domain:library.lol

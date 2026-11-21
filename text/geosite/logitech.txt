@@ -1,0 +1,13 @@
+domain:logi.com
+domain:logicool.co.jp
+domain:logicoolg.com
+domain:logitech.biz
+domain:logitech.com
+domain:logitech.com.cn
+domain:logitech.fr
+domain:logitech.io
+domain:logitechg.com
+domain:logitechg.com.cn
+domain:logitechg.fr
+domain:logitechio.com.cn
+domain:worldsfastestgamer.net

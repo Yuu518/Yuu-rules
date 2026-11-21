@@ -1,0 +1,4 @@
+domain:open.cachefly.net
+domain:openspeedtest.com
+domain:openspeedtest.in
+domain:openspeedtest.org

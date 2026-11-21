@@ -1,0 +1,4 @@
+full:disney.my.sentry.io
+full:sentry.ppy.sh
+domain:insights-collector.gog.com
+domain:log-upload-os.hoyoverse.com

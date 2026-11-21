@@ -1,0 +1,4 @@
+domain:nic.ru
+domain:nichost.ru
+domain:r01.ru
+domain:sweb.ru

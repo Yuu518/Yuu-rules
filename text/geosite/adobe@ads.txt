@@ -1,0 +1,3 @@
+domain:advertising.adobe.com
+domain:demdex.net
+domain:tubemogul.com

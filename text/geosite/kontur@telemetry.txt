@@ -1,0 +1,2 @@
+full:metrika.kontur.ru
+full:sentry.kontur.host

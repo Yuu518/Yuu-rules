@@ -1,0 +1,11 @@
+full:hospital.pku.edu.cn
+full:ss.bjmu.edu.cn
+domain:ba-hospital.com
+domain:cd120.com
+domain:cd120.info
+domain:fuwai.com
+domain:hnxzctec.com
+domain:pkuh6.cn
+domain:puh3.net.cn
+domain:smuszh.com
+domain:yctdyy.com

@@ -1,0 +1,15 @@
+domain:barkadahansasmartone.com
+domain:healthreach.hk
+domain:hkcircleapp.com
+domain:homephoneplus.com
+domain:ip73.com
+domain:s-cashonmobile.com
+domain:s-rewards.hk
+domain:sahabatsetiasmartone.com
+domain:smartone.com
+domain:smartoneholdings.com
+domain:smartonerobotics.com
+domain:smartonesolutions.com.hk
+domain:smartonesolutions.hk
+domain:valuegb.com
+domain:wise-research.com

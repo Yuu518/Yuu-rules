@@ -1,0 +1,12 @@
+domain:legendofzelda.cn
+domain:legendofzelda.com.cn
+domain:mariokart.cn
+domain:mariokart.com.cn
+domain:miitomo.com.cn
+domain:nintendolabo.cn
+domain:nintendoswitch.cn
+domain:nintendoswitch.com.cn
+domain:supermariobros.com.cn
+domain:supersmashbros.cn
+domain:supersmashbros.com.cn
+domain:xn--mts47c3w9b1qr.cn

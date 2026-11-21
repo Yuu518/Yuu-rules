@@ -1,0 +1,5 @@
+full:apple-relay.apple.com
+full:apple-relay.cloudflare.com
+full:apple-relay.fastly-edge.com
+full:cp4.cloudflare.com
+full:gspe1-ssl.ls.apple.com
