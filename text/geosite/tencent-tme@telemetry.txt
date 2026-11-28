@@ -1,0 +1,3 @@
+domain:monitor.music.qq.com
+domain:report.tencentmusic.com
+domain:stat.y.qq.com

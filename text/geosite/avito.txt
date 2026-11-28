@@ -1,0 +1,5 @@
+full:stats.avito.ru
+domain:avito.com
+domain:avito.ru
+domain:avito.st
+domain:avito.tech

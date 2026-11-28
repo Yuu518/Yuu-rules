@@ -1,0 +1,2 @@
+domain:analytics.vpc.duolingo.com
+domain:metrics.duolingo.com

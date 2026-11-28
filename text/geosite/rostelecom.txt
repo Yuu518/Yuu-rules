@@ -1,0 +1,13 @@
+full:sentry.iptv.rt.ru
+domain:azbukainterneta.ru
+domain:more.tv
+domain:o7.com
+domain:onlime.ru
+domain:restream-media.net
+domain:restream.ru
+domain:rostelecom-rb.ru
+domain:rostelecom.ru
+domain:rt.ru
+domain:wink.am
+domain:wink.ru
+domain:xn--e1aapchhekkk.xn--p1ai

@@ -1,0 +1,14 @@
+full:fontshop-prod-responsive-images.s3.amazonaws.com
+domain:bitstream.com
+domain:fontbook.com
+domain:fontexplorerx.com
+domain:fonts.com
+domain:fonts.net
+domain:fontshop.com
+domain:fstopimages.com
+domain:itcfonts.com
+domain:linotype.com
+domain:monotype.com
+domain:monotypeimaging.com
+domain:myfonts.com
+domain:myfonts.net

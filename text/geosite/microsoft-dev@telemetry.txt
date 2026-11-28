@@ -1,0 +1,2 @@
+full:dc.services.visualstudio.com
+full:rt.services.visualstudio.com

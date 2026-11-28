@@ -1,0 +1,8 @@
+domain:beacon.sina.com.cn
+domain:crash2.zhihu.com
+domain:log.sina.cn
+domain:log2.sina.cn
+domain:sbeacon.sina.com.cn
+domain:slog.sina.cn
+domain:slog.sina.com.cn
+domain:zhihu-web-analytics.zhihu.com

@@ -1,0 +1,8 @@
+full:log3-applog-hl.fqnovel.com
+full:log3-applog.fqnovel.com
+full:log5-applog-hl.fqnovel.com
+full:log5-applog.fqnovel.com
+full:rtlog3-applog-hl.fqnovel.com
+full:rtlog3-applog.fqnovel.com
+full:rtlog5-applog-hl.fqnovel.com
+full:rtlog5-applog.fqnovel.com

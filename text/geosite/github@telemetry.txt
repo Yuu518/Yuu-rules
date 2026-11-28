@@ -1,0 +1,4 @@
+full:copilot-telemetry-service.githubusercontent.com
+full:copilot-telemetry.githubusercontent.com
+domain:cafe.github.com
+domain:collector.github.com

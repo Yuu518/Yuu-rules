@@ -1,0 +1,6 @@
+payload:
+  - 'client-teamviewer-com.trafficmanager.net'
+  - 'teamviewer.com.cdn.cloudflare.net'
+  - '+.teamviewer.cn'
+  - '+.teamviewer.com'
+  - '+.teamviewer.us'

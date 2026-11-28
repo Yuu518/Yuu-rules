@@ -1,0 +1,15 @@
+full:ads-gate.wildberries.ru
+full:ads-media.wildberries.ru
+full:ads.wildberries.ru
+full:advert-api-sandbox.wb.ru
+full:advert-api-sandbox.wildberries.ru
+full:advert-api.wb.ru
+full:advert-api.wildberries.ru
+full:advert-media-api.wb.ru
+full:advert-media-api.wildberries.ru
+full:analytics-stage.wildberries.ru
+full:analytics.wildberries.ru
+full:marketing-info.wildberries.ru
+full:marketplace-sentry.wb.ru
+full:sentry.wb.ru
+full:web-analytics.wildberries.ru

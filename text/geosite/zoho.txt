@@ -1,0 +1,13 @@
+domain:zoho.com
+domain:zoho.com.au
+domain:zoho.eu
+domain:zoho.in
+domain:zohocdn.com
+domain:zohomeetups.com
+domain:zohomerchandise.com
+domain:zohopublic.com
+domain:zohoschools.com
+domain:zohostatic.com
+domain:zohostatic.in
+domain:zohouniversity.com
+domain:zohowebstatic.com

@@ -1,0 +1,3 @@
+domain:bluearchive-cn.com
+domain:bluearchive.jp
+domain:bluearchive.nexon.com

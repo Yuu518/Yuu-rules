@@ -1,0 +1,4 @@
+domain:ikea.cn
+domain:ingka-dt.cn
+domain:ingka-internal.cn
+domain:ingka-system.cn

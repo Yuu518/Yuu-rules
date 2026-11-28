@@ -1,0 +1,3 @@
+domain:analytics.facebook.com
+domain:facebookads.com
+domain:pixel.facebook.com

@@ -1,0 +1,14 @@
+domain:abow.jp
+domain:angelbeats.jp
+domain:anigema.jp
+domain:charlotte-anime.jp
+domain:clannad-movie.jp
+domain:heaven-burns-red.com
+domain:kamisama-day.jp
+domain:kamisama-maeda-lab.com
+domain:koubaibu.jp
+domain:litbus-anime.com
+domain:product.co.jp
+domain:rewrite-anime.tv
+domain:visual-arts.jp
+domain:visualarts.gr.jp

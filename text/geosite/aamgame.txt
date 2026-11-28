@@ -1,0 +1,5 @@
+domain:aamgame.com
+domain:aamgame.mobi
+domain:aamgame.net
+domain:aamsmart.com
+domain:singworld.net

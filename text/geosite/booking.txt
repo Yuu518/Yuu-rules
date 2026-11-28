@@ -1,0 +1,3 @@
+domain:booking.cn
+domain:booking.com
+domain:bstatic.com

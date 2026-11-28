@@ -1,0 +1,5 @@
+full:error-tracking.megamarket.tech
+full:metrics.21-school.ru
+full:sentry.sberauto.com
+full:tracing-http.megamarket.tech
+domain:clickstream.sberbank.ru

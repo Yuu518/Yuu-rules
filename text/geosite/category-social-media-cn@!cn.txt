@@ -1,0 +1,10 @@
+domain:hk.weibo.com
+domain:my.weibo.com
+domain:overseas.weibo.com
+domain:rednote.com
+domain:rednote.com.my
+domain:rednotecdn.com
+domain:sg.weibo.com
+domain:th.weibo.com
+domain:tw.weibo.com
+domain:us.weibo.com

@@ -1,0 +1,3 @@
+full:disney.my.sentry.io
+domain:ifacelog.iqiyi.com
+domain:mbdlog.iqiyi.com

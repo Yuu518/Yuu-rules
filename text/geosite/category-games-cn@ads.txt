@@ -1,0 +1,2 @@
+domain:kurogames-ads.com
+domain:log-upload.mihoyo.com

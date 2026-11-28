@@ -1,0 +1,6 @@
+domain:ads.unitychina.cn
+domain:badjs.weixinbridge.com
+domain:splash-ads.cdn.unity.cn
+domain:splash-ads.unitychina.cn
+domain:unityads.unity.cn
+domain:unityads.unitychina.cn

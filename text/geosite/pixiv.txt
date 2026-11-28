@@ -1,0 +1,5 @@
+domain:booth.pm
+domain:fanbox.cc
+domain:pixiv.net
+domain:pixivision.net
+domain:pximg.net

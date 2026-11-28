@@ -1,0 +1,10 @@
+domain:cht.com.tw
+domain:chtf.org.tw
+domain:eca.hinet.net
+domain:emome.net
+domain:gtlsca.nat.gov.tw
+domain:hinet.net
+domain:pki.hinet.net
+domain:publicca.hinet.net
+domain:tls.hinet.net
+domain:xuite.net
